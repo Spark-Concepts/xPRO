@@ -7,13 +7,12 @@ CNC xPRO driver w/ 4x DRV8825 motor drivers; allows for dual motor configuration
 
 See these links for more details.
 
-* [Synthetos](https://www.synthetos.com/)
-* [TinyG Wiki](https://github.com/synthetos/TinyG/wiki)
-* [TinyG Support Forum](https://www.synthetos.com/forum/tinyg/)
-* [TinyG Github](https://github.com/synthetos/TinyG)
-* [Synthetos Web Store](https://www.synthetos.com/webstore/)
+* [Spark Concepts](https://www.spark-concepts.com/)
+* [xPRO Support Forum](http://www.spark-concepts.com/forums/)
+* [xPRO Github](https://github.com/Spark-Concepts/xPRO/)
+* [Spark Concepts Web Store](http://www.spark-concepts.com/cnc-xpro-controller/)
 
-**See the new TinyG G2 [Arduino Due ARM Port](https://github.com/synthetos/g2) and the [G2 wiki](https://github.com/synthetos/g2/wiki)**
+**See the new CNC xPRO [Arduino Due ARM Port](http://www.spark-concepts.com/cnc-xpro-controller) and the [G2 wiki](http://www.spark-concepts.com/forums/)**
 
 <H2>Files:</H2>
 <UL>
