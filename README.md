@@ -5,6 +5,16 @@ CNC-xPRO-Driver-PCB
 
 CNC xPRO driver w/ 4x DRV8825 motor drivers; allows for dual motor configurations on the X,Y, or Z axis + wireless support
 
+See these links for more details.
+
+* [Synthetos](https://www.synthetos.com/)
+* [TinyG Wiki](https://github.com/synthetos/TinyG/wiki)
+* [TinyG Support Forum](https://www.synthetos.com/forum/tinyg/)
+* [TinyG Github](https://github.com/synthetos/TinyG)
+* [Synthetos Web Store](https://www.synthetos.com/webstore/)
+
+**See the new TinyG G2 [Arduino Due ARM Port](https://github.com/synthetos/g2) and the [G2 wiki](https://github.com/synthetos/g2/wiki)**
+
 <H2>Files:</H2>
 <UL>
 <LI>Schematics
