@@ -7,8 +7,8 @@ CNC xPRO driver w/ 4x DRV8825 motor drivers; allows for dual motor configuration
 
 See these links for more details.
 
-* [CNC xPRO wiki](https://github.com/Spark-Concepts/xPRO/wiki)
 * [Spark Concepts](https://www.spark-concepts.com/)
+* [CNC xPRO wiki](https://github.com/Spark-Concepts/xPRO/wiki)
 * [xPRO Support Forum](http://www.spark-concepts.com/forums/)
 * [xPRO Github](https://github.com/Spark-Concepts/xPRO/)
 * [Spark Concepts Web Store](http://www.spark-concepts.com/cnc-xpro-controller/)
