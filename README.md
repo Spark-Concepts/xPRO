@@ -11,7 +11,7 @@ See these links for more details.
 * [CNC xPRO wiki](https://github.com/Spark-Concepts/xPRO/wiki)
 * [xPRO Support Forum](http://www.spark-concepts.com/forums/)
 * [xPRO Github](https://github.com/Spark-Concepts/xPRO/)
-* [Spark Concepts Web Store](http://www.spark-concepts.com/cnc-xpro-controller/)
+* [Spark Concepts Web Store](http://www.spark-concepts.com/pre-order-cnc-xpro-controller-v2/)
 
 **See the new CNC xPRO [Arduino Due ARM Port](http://www.spark-concepts.com/cnc-xpro-controller) and the [G2 wiki](http://www.spark-concepts.com/forums/)**
 
